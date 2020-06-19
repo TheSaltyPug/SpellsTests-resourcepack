@@ -1,0 +1,16 @@
+{
+	"parent": "item/handheld_rod",
+	"textures": {
+		"layer0": "item/carrot_on_a_stick"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":3160000}, "model": "tsp:spells/item/spells.1.1"},
+		{"predicate": {"custom_model_data":3160001}, "model": "tsp:spells/item/spells.1.2"},
+		{"predicate": {"custom_model_data":3160002}, "model": "tsp:spells/item/spells.1.3"},
+		{"predicate": {"custom_model_data":3160003}, "model": "tsp:spells/item/spells.1.4"},
+		{"predicate": {"custom_model_data":3160004}, "model": "tsp:spells/item/spells.3.1.1"},
+		{"predicate": {"custom_model_data":3160005}, "model": "tsp:spells/item/spells.5.3"},
+		{"predicate": {"custom_model_data":3160006}, "model": "tsp:spells/item/spells.3.2.2"},
+		{"predicate": {"custom_model_data":3160100}, "model": "tsp:spells/item/staff"}
+	]
+}

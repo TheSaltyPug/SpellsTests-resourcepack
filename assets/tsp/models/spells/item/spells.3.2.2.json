@@ -1,0 +1,6 @@
+{
+	"parent": "tsp:spells/item/spell_destruction_ice",
+	"textures": {
+		"1": "tsp:spells/item/spells.3.2.2"
+	}
+}

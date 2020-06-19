@@ -1,0 +1,7 @@
+{
+	"parent": "tsp:spells/item/spell_destruction",
+	"textures": {
+		"0": "minecraft:block/light_blue_stained_glass",
+		"particle": "minecraft:block/light_blue_stained_glass"
+	}
+}

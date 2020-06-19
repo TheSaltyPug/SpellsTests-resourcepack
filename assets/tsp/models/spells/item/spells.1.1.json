@@ -1,0 +1,6 @@
+{
+	"parent": "tsp:spells/item/spell_alteration",
+	"textures": {
+		"1": "tsp:spells/item/spells.1.1"
+	}
+}

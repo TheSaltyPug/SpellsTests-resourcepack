@@ -1,0 +1,38 @@
+{
+	"providers":[
+		{
+            "type": "ttf",
+            "file": "tsp:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+		{
+			"type": "bitmap",
+			"file": "tsp:spells/font/mana/filled.png",
+			"ascent": 0,
+			"height": 10,
+			"chars": [
+				"\uEfb1"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "tsp:spells/font/mana/empty.png",
+			"ascent": 0,
+			"height": 10,
+			"chars": [
+				"\uEfb2"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "tsp:spells/font/mana/end.png",
+			"ascent": 0,
+			"height": 10,
+			"chars": [
+				"\uEfb3"
+			]
+		}
+	]
+}
